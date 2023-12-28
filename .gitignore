@@ -6,3 +6,4 @@ models/*
 logs/*
 checkpoint/*
 __pycache__/*
+dcgan_output/*
