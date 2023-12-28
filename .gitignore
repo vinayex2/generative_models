@@ -7,3 +7,4 @@ logs/*
 checkpoint/*
 __pycache__/*
 dcgan_output/*
+wgan_output/*
